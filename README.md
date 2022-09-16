@@ -1,5 +1,15 @@
-### Hi there 👋
+<h2 align="center">About Me</h2>
+Hi, I'm kura and I like coding.
 
+<h2 align="center">Skills</h2>
+- LuaU (Roblox scripting)
+- JS
+- TS
+- Python
+- HTML & CSS
+
+<h2 align="center">Stats</h2>
+<img src="https://gpvc.arturio.dev/kuraise">
 <!--
 **kuraise/kuraise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
