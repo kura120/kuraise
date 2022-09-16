@@ -2,10 +2,11 @@
 Hi, I'm kura and I like coding.
 
 <h2 align="center">Skills</h2>
+
 - LuaU (Roblox scripting)
 - JS
 - TS
-- Python
+- Python (not much)
 - HTML & CSS
 
 <h2 align="center">Stats</h2>
