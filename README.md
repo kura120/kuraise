@@ -1,5 +1,9 @@
 <h2 align="center">About Me</h2>
-Hi, I'm kura and I like coding.
+I code whenever I feel like coding, usually I make things for people for more experience but I sometimes will accept donations.
+
+You can contact / reach me by my:
+* Discord: kura#6133
+* Email: kur4ise@gmail.com
 
 <h2 align="center">Skills</h2>
 
